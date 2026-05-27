@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpalculate",
+        "uuid": 29752632,
+        "checksum": "mvgyr3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
